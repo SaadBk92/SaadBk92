@@ -5,8 +5,8 @@
 <P align="center">
 <img src="https://www.ug.edu.ge/public/thinking.gif" />
 </P>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadbk92" alt="saadbk92" /></a> </p>
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadbk92" alt="saadbk92" /></a> </p>
+ -->
 - 🔭 I’m currently working on **Crypto**
 
 - 👯 I’m looking to collaborate on **Open source Fintech Solution**
